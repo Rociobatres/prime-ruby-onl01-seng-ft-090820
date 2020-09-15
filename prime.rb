@@ -1,5 +1,5 @@
 def prime?(num)
-  num do |interger|
+  (2..(num do |interger|
     interger
   end   
 end 
