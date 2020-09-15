@@ -1,5 +1,5 @@
 def prime?(num)
-  num.split.map do |interger|
+  num do |interger|
     interger
   end   
 end 
