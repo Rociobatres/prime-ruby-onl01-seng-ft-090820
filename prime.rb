@@ -1,5 +1,5 @@
 def prime?(num)
   (2..(num - 1)).each do |interger|
-    return false if   
+    return false if interger %   
   end   
 end 
